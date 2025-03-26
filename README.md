@@ -21,6 +21,8 @@ The same sample form using the MVC pattern
 $ python form_mvc.py
 ```
 
+![mongo-compass](./captures/form.png "form mvc")
+
 If you add new dependencies to your project export these dependencies:
 
 ```
